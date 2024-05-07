@@ -4,7 +4,7 @@
 
 - This project aims to analyze sales data from a supermarket over a three-month period to gain insights into sales performance, customer behaviour and product trends.
 
-# Data Aanalysis Process
+# Data Analysis Process
 
 # 1. Data Reading:
 - The project begins by reading and loading the supermarket sales dataset into Python for analysis.
